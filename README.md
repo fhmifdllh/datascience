@@ -1,4 +1,4 @@
-Notebook **MiniProject_iris.ipynb** yang Anda rujuk berfokus pada klasifikasi dataset **Iris** menggunakan tiga algoritma: **Logistic Regression**, **Decision Tree**, dan **Random Forest**. Berikut adalah penjelasan dari isi kode dalam notebook tersebut:
+Notebook **Project.ipynb** yang Anda rujuk berfokus pada klasifikasi dataset **Iris** menggunakan tiga algoritma: **Logistic Regression**, **Decision Tree**, dan **Random Forest**. Berikut adalah penjelasan dari isi kode dalam notebook tersebut:
 
 1. **Import Library yang Diperlukan**
 Notebook dimulai dengan mengimpor pustaka-pustaka penting seperti `pandas`, `numpy`, `matplotlib.pyplot`, dan `seaborn` untuk manipulasi data dan visualisasi. Selain itu, mengimpor modul dari `sklearn` untuk pemodelan machine learning.
